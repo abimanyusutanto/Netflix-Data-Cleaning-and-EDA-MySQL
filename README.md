@@ -1,8 +1,8 @@
 # Netflix Data Cleaning and EDA Using MySQL
 
-This project involves performing an Exploratory Data Analysis (EDA) on the Netflix dataset using MySQL. The analysis aims to uncover insights into the types of content available, their distribution across countries, release years, directors, genres, and ratings.
+This project involves performing a Data Cleaning and Exploratory Data Analysis (EDA) on the Netflix dataset using MySQL. The analysis aims to uncover insights into the types of content available, their distribution across countries, release years, directors, genres, and ratings.
 
-More dataset information can be seen here : https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
+Dataset information that will be used can be seen here : https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
 
 EDA to be performed such as:
 
