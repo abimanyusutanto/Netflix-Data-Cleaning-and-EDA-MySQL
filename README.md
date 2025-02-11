@@ -1,4 +1,4 @@
-# **Netflix Data Cleaning and EDA Using MySQL**
+# **Netflix Data Analysis Using MySQL**
 
 ## **Project Overview**
 
